@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component name="nuxeo.extensions.chains" version="1.0.0">
+  <require>org.nuxeo.runtime.started</require>
+  
+ 
+ </component>
